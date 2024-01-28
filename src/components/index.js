@@ -9,8 +9,8 @@ import CTA from "./CTA";
 import Feedback from "./Feedback";
 import Footer from "./Footer";
 import GetStarted from "./GetStarted";
-import Starts from "./Starts";
 import Testimonials from "./Testimonials";
+import Stats from "./Stats";
 
 export{
     Navbar,
@@ -24,6 +24,6 @@ export{
     Feedback,
     Footer,
     GetStarted,
-    Starts,
+    Stats,
     Testimonials
 };
