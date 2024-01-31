@@ -20,11 +20,10 @@ const App = () => {
             <Bussiness/>
             <Billing/>
             <CardDeal/>
+            <Testimonials/>
             <Clients/>
             <CTA/>
-            <Feedback/>
             <Footer/>
-            <Testimonials/>
         </div>
       </div>
     </div>
